@@ -4,9 +4,11 @@ __pycache__/
 .venv
 *.egg-info/
 dist/
-build/
 .DS_Store
 Thumbs.db
+
+# Generated from header.png
+header.ico
 
 # Private — contains unredacted personal data
 Comprehensive Strategic Analysis an.txt
@@ -23,6 +25,10 @@ CLAUDE.md
 .github/
 .devcontainer/
 .devcontainer.json
+
+# PyInstaller artifacts
+*.spec
+build/
 
 # Editor configs
 .vscode/

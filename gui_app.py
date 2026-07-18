@@ -1,6 +1,10 @@
 import sys, os
 from pathlib import Path
 
+def resource_path(relative):
+    base = getattr(sys, "_MEIPASS", Path(__file__).parent)
+    return Path(base) / relative
+
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
     QFormLayout, QLineEdit, QComboBox, QRadioButton, QButtonGroup,
@@ -111,7 +115,7 @@ class MainWindow(QMainWindow):
         form_layout = QVBoxLayout(scroll_content)
         form_layout.setSpacing(8)
 
-        logo_path = Path(__file__).parent / "header.png"
+        logo_path = resource_path("header.png")
         if logo_path.exists():
             pixmap = QPixmap(str(logo_path))
             logo_label = QLabel()
@@ -281,7 +285,9 @@ class MainWindow(QMainWindow):
 
 def main():
     app = QApplication(sys.argv)
-    app.setWindowIcon(QIcon())
+    ico = resource_path("header.ico")
+    if ico.exists():
+        app.setWindowIcon(QIcon(str(ico)))
     window = MainWindow()
     window.show()
     sys.exit(app.exec())
