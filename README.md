@@ -1,5 +1,7 @@
 <div align="center">
 
+![ISKORE Logo](header.png)
+
 # Iskolar Tracker
 
 *A data-driven scholarship portfolio manager for Filipino SUC students*
