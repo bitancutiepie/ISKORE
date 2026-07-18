@@ -7,9 +7,25 @@ dist/
 build/
 .DS_Store
 Thumbs.db
+
 # Private — contains unredacted personal data
 Comprehensive Strategic Analysis an.txt
 test_write.xlsx
-# Agent configuration (not part of project)
+
+# AI agent configurations
 .agents/
-skills-lock.json
+AGENTS.md
+CLAUDE.md
+.cursor/
+.claude/
+
+# Codespace / devcontainer
+.github/
+.devcontainer/
+.devcontainer.json
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo

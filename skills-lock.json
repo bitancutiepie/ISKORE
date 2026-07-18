@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-image-generation": {
+      "source": "skills-collective/skills",
+      "sourceType": "github",
+      "skillPath": "ai-image-generation/SKILL.md",
+      "computedHash": "06f41b40b32a080bc38536156b80a7d4a3175e1b1eeece55fc125e54bee467f3"
+    },
+    "create-readme": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/create-readme/SKILL.md",
+      "computedHash": "d0ece1b2164ce1376e4ab6e98d6ac079df3a2a94f5f02224362b6a1ce2516ae9"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "781bd6d3f9b19f8c9af6b53d8d0e4876d0183841b565db34ca7092ffa412d111"
+    },
+    "form-validation": {
+      "source": "aj-geddes/useful-ai-prompts",
+      "sourceType": "github",
+      "skillPath": "skills/form-validation/SKILL.md",
+      "computedHash": "940308708dc39ad885212aacc56d11018757c2f08bd3fd1b384d4be75f61d914"
+    },
+    "pydantic": {
+      "source": "jiatastic/open-python-skills",
+      "sourceType": "github",
+      "skillPath": "skills/pydantic/SKILL.md",
+      "computedHash": "75c9e63d13229d323b0da4da581aabeddb84c46dab68e8bfa3503dd872b7c6a6"
+    },
+    "pyqt6-ui-development-rules": {
+      "source": "oimiragieo/agent-studio",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/pyqt6-ui-development-rules/SKILL.md",
+      "computedHash": "7d67c0d5cad20f9631cf6fe659cc6fbadee7dfb6a19f19dbe82a6c283a71d4fb"
+    },
+    "python-patterns": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "skillPath": "skills/python-patterns/SKILL.md",
+      "computedHash": "3f4ccececee9c3144436666aed86417aa03fcfd0f976e606953adcc9c9b420b4"
+    },
+    "xlsx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/xlsx/SKILL.md",
+      "computedHash": "cbaaabead69c5e03643f116cde6a396ad53f6da058da6eaa7bad6c4fbafe6026"
+    }
+  }
+}
