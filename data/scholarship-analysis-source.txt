@@ -1,0 +1,1265 @@
+Comprehensive Strategic Analysis and Funding Portfolio Optimization for Public Sector Information Technology Undergraduates
+Executive Landscape of Tertiary Funding in Calabarzon
+The undergraduate financial aid ecosystem in the Philippines for the academic year 2026–2027 operates within a complex, multi-tiered structure of national legislation, local government initiatives, and corporate social responsibility portfolios. For a student enrolled in the Bachelor of Science in Information Technology (BSIT) program at Batangas State University, the baseline financial reality is dictated by Republic Act No. 10931, or the Universal Access to Quality Tertiary Education Act. Because the university is a premier State University and College (SUC), tuition and standard miscellaneous fees are fully subsidized by the state. This structural reality fundamentally shifts the utility of external scholarship awards. Rather than serving as direct tuitional payments, external grants are utilized as non-tuitional stipends to cover cost-of-living expenditures, high-speed connectivity, learning materials, and specialized software development tools necessary for a future career as a Software Engineer.
+Managing a multi-grant portfolio as an incoming third-year student requires careful attention to the strict rules against holding multiple government scholarships. A sample student profile holds two awards: the Education and Livelihood Assistance Program (ELAP) from the Overseas Workers Welfare Administration (OWWA) and the Batangas Provincial Merit Scholarship. Holding these two grants is highly strategic, but attempting to add more national-level government grants introduces the risk of "double-dipping" disqualifications. National agencies like the Commission on Higher Education (CHED) and the Department of Science and Technology (DOST) enforce rules that prevent students from receiving more than one national merit grant. However, local government unit (LGU) subsidies and private corporate foundations operate under different rules. This allows students to combine local government support with private corporate allowances to help fund their final years of college.
+Detailed Directory of Evaluated Scholarships
+1. Junior Level Science Scholarship (JLSS) — RA 7687 Track
+ * Scholarship Name: Junior Level Science Scholarship (JLSS) — RA 7687 Track
+ * Official Organization: Department of Science and Technology — Science Education Institute (DOST-SEI)
+ * Official Website: https://www.sei.dost.gov.ph
+ * Official Application Link: https://jlss.science-scholarships.ph
+ * Is it OPEN now?: NO
+ * Opening Date: April 13, 2026
+ * Deadline: May 15, 2026
+ * Amount / Benefits: ₱8,000 monthly living allowance, ₱10,000 annual book/connectivity allowance, ₱10,000 thesis allowance, health insurance, ₱1,000 graduation allowance, and round-trip economy travel allowance
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Priority science and technology course)
+ * Region Restriction: None (National program for Philippine citizens)
+ * Income Requirement: Socio-economically disadvantaged families whose indicators do not exceed set values
+ * GPA Requirement: GWA of at least 83% (or equivalent), with no conditional, dropped, or failing grades
+ * Required Documents: Certificate of Good Moral Character, Certificate of Good Health, Year Level/Program Certification, Certificate of Residency, Transcript of Records (TOR) or True Copy of Grades (TCG), birth certificate, and parent financial/income documents
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Automated eligibility screening, nationwide paper-based or computerized qualifying exam, and regional ranking
+ * Exam?: YES
+ * **Interview?: NO
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 10/10
+2. Junior Level Science Scholarship (JLSS) — Merit Track
+ * Scholarship Name: Junior Level Science Scholarship (JLSS) — Merit Track
+ * Official Organization: Department of Science and Technology — Science Education Institute (DOST-SEI)
+ * Official Website: https://www.sei.dost.gov.ph
+ * Official Application Link: https://jlss.science-scholarships.ph
+ * Is it OPEN now?: NO
+ * Opening Date: April 13, 2026
+ * Deadline: May 15, 2026
+ * Amount / Benefits: ₱8,000 monthly living allowance, ₱10,000 annual book allowance, ₱10,000 thesis allowance, and group health insurance
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Priority science and technology course)
+ * Region Restriction: None (National program for Philippine citizens)
+ * Income Requirement: None (Academic merit-based)
+ * GPA Requirement: GWA of at least 83% (or equivalent), with no conditional, dropped, or failing grades
+ * Required Documents: Certificate of Good Moral Character, Certificate of Good Health, Year Level/Program Certification, True Copy of Grades (TCG) for first and second years in college, and recent passport-size photo
+ * Existing Scholar Policy:
+    * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Academic evaluation, nationwide qualifying examination, and ranking
+ * Exam?: YES
+ * Interview?: NO
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 10/10
+3. Junior Level Science Scholarship (JLSS) — RA 10612 Track
+ * Scholarship Name: Junior Level Science Scholarship (JLSS) — RA 10612 Track
+ * Official Organization: Department of Science and Technology — Science Education Institute (DOST-SEI)
+ * Official Website: https://www.sei.dost.gov.ph
+ * Official Application Link: https://jlss.science-scholarships.ph
+ * Is it OPEN now?: NO
+ * Opening Date: April 13, 2026
+ * Deadline: May 15, 2026
+ * Amount / Benefits: ₱8,000 monthly living allowance, ₱10,000 annual book/connectivity allowance, ₱10,000 thesis allowance, and guaranteed job placement as a secondary school science/math teacher
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Priority science and technology course)
+ * Region Restriction: None
+ * Income Requirement: None
+ * GPA Requirement: GWA of at least 83% (or equivalent), with no failing grades
+ * Required Documents: Certificate of Good Moral Character, Certificate of Good Health, Year Level/Program Certification, True Copy of Grades (TCG), commitment to return service as a high school teacher, and recent passport-size photo
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Standard academic screening and qualifying examination
+ * Exam?: YES
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 9/10
+4. GBF STEM-College Scholarship Program
+ * Scholarship Name: GBF STEM-College Scholarship Program
+ * Official Organization: Gokongwei Brothers Foundation (GBF)
+ * Official Website: https://www.gokongweibrothersfoundation.org
+ * Official Application Link: https://bit.ly/GBFSTEMCollege
+ * Is it OPEN now?: NO
+ * Opening Date: March/April 2026
+ * Deadline: May 31, 2026
+   * Amount / Benefits: Fixed annual financial grant of up to ₱120,000, leadership training, skill upskilling, and direct internship/employment opportunities within the Gokongwei Group
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (All priority STEM courses)
+ * Region Restriction: None (Philippine citizens enrolled in local universities)
+ * Income Requirement: Must demonstrate financial need
+ * GPA Requirement: GWA of at least 85% / 2.0 (or equivalent), with no failed, dropped, or incomplete grades
+ * Required Documents: Certified True Copy of Grades for last 2 consecutive semesters, registration form, Certificate of Good Moral Character, proof of household income, utility bills, recommender email, and student personal portfolio
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES (Applicants with existing scholarships may apply, though priority is given to those without other sources of financial aid).
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: Eligibility checking, cognitive/academic examination, and multiple panel interviews
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 9/10
+5. Presidential Scholars Program (B BBM) — Batangas Rollout
+ * Scholarship Name: Presidential Scholars Program (B BBM)
+ * Official Organization: Office of the President / Batangas Provincial Government
+ * Official Website: https://rtvm.gov.ph (or localized provincial portals)
+ * Official Application Link: Coordinated directly through local Barangay leagues
+ * Is it OPEN now?: YES (Launched rolling implementation in April 2026)
+ * Opening Date: April 24, 2026
+ * Deadline: Rolling/dependent on Barangay league allocations
+ * Amount / Benefits: ₱20,000 educational assistance
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: Restricted to residents of Batangas Province (specifically, 5 scholars per barangay)
+ * Income Requirement: Prioritizes financially vulnerable families
+ * GPA Requirement: Policy not explicitly stated (generally passing standing)
+ * Required Documents: Barangay Certificate of Residency, Barangay Indigency, Certificate of Registration (COR) / Enrollment verification from BatStateU, and valid government ID
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES (Welfare-based presidential grant, compatible).
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: Endorsement by Barangay League and local provincial board based on socio-economic need
+ * Exam?: NO
+ * Interview?: NO
+   * Estimated Competitiveness: Medium
+ * Estimated Match Score (1-10): 9/10
+6. Batangas City Government EBD Scholarship Program
+ * Scholarship Name: Batangas City Government EBD Scholarship Program
+ * Official Organization: Office of the City Mayor, Batangas City
+ * Official Website: https://www.batangascity.gov.ph
+ * Official Application Link: Coordinated through official email: ebd_scholarship@batangascity.gov.ph
+ * Is it OPEN now?: YES (Usually opens around enrollment season in July/August)
+ * Opening Date: July 2026
+ * Deadline: Enrollment season deadline (August 2026)
+ * Amount / Benefits: ₱8,000 per semester (For SUCs like BatStateU with free tuition, scholars receive ₱3,000 pure living/allowance directly per semester)
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: Restricted to residents of Batangas City for at least five years
+ * Income Requirement: Marginally disadvantaged/indigent families
+ * GPA Requirement: GWA of at least 2.5 (80% or equivalent), with no failing grades
+ * Required Documents: Barangay Captain Endorsement Letter, Application Letter addressed to Mayor Beverly Rose A. Dimacuha, True Copy of Grades / Report Card
+ * Existing Scholar Policy:
+    * ELAP Compatibility: Policy not explicitly stated (generally allowed as an LGU grant).
+   * Provincial Scholarship Compatibility: Policy not explicitly stated (strictly limited to one scholar per household within the city database).
+ * Selection Process: Evaluation of submitted digital files on a first-come, first-served basis, followed by verification phone interviews
+ * Exam?: NO
+ * **Interview?: YES (Via phone for successful preliminary applicants)
+ * Estimated Competitiveness: Medium-High
+ * Estimated Match Score (1-10): 9/10
+7. CHED Tulong Dunong Program (CHED-TDP)
+ * Scholarship Name: CHED Tulong Dunong Program (CHED-TDP)
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://ched.gov.ph
+ * Official Application Link: Coordinated directly through local legislative district congressional offices
+ * Is it OPEN now?: YES (Opens in July 2026 for the incoming academic year)
+ * Opening Date: July 13, 2026
+ * Deadline: Mid-to-late July 2026 (Often strict 3-to-4-day submission windows)
+ * Amount / Benefits: ₱15,000 per academic year
+ * Eligible for Incoming 3rd Year?: YES (Covers incoming 1st to 4th year college students)
+ * Eligible for BSIT?: YES
+ * Region Restriction: Must be a resident of the legislative district of the sponsoring representative
+ * Income Requirement: Marginally disadvantaged families
+ * GPA Requirement: Must maintain a passing average with no failing grades
+ * Required Documents: Certificate of Enrollment/Registration signed by Registrar, Barangay Indigency, valid student ID or National ID, and completed CHED-TDP application form
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Financial evaluation and quota ranking per legislative district
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 9/10
+8. CHED Tertiary Education Subsidy (TES)
+ * Scholarship Name: Tertiary Education Subsidy (TES)
+ * Official Organization: Commission on Higher Education (CHED) / UniFAST
+ * Official Website: https://unifast.gov.ph
+ * Official Application Link: Coordinated internally via BatStateU's Scholarship Office
+ * Is it OPEN now?: YES (Aligned with school enrollment periods)
+ * Opening Date: June/July 2026
+ * Deadline: Determined by SUC enrollment schedule
+ * Amount / Benefits: ₱20,000 to ₱40,000 per academic year
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: None (Enrolled in an SUC/LUC under the CHED registry)
+ * Income Requirement: Prioritizes students listed under DSWD Listahanan or 4Ps households
+ * GPA Requirement: Satisfactory academic standing (no failing grades)
+ * Required Documents: Certificate of Registration (COR), and Certified True Copy of Grades / Transcript of Records
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Auto-screening through Listahanan registry, followed by institutional slot allocation
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Extremely High (severely limited national funding allocations)
+ * Estimated Match Score (1-10): 9/10
+9. Fuji Haya Electric Corporation Scholarship Program
+ * Scholarship Name: Fuji Haya Electric Corporation Scholarship Program
+ * Official Organization: Fuji Haya Electric Corporation / BatStateU
+ * Official Website: https://global.batstateu.edu.ph
+ * Official Application Link: Coordinated directly with the BatStateU Alangilan Scholarship Office
+ * Is it OPEN now?: YES (Evaluation of active cohorts ongoing)
+ * Opening Date: Academic Year Start
+ * **Deadline: School semester enrollment deadlines
+ * Amount / Benefits: Direct semestral financial grant, industrial seminars, OJT internships, and potential post-grad employment
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Priority technology/engineering disciplines)
+ * Region Restriction: Enrolled at BatStateU
+ * Income Requirement: Financial need
+ * GPA Requirement: High academic standing with no failing grades
+ * Required Documents: Registration form, True Copy of Grades (TCG), Good Moral Certificate, and parent income documents
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Academic screening by BatStateU Scholarship Office, followed by corporate panel interviews
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: Medium-High
+ * Estimated Match Score (1-10): 8/10
+10. Generation Google Scholarship (APAC) — Women in Computer Science
+ * Scholarship Name: Generation Google Scholarship (APAC) — Women in Computer Science
+ * Official Organization: Google Inc.
+ * Official Website: https://buildyourfuture.withgoogle.com
+ * Official Application Link: Direct online application
+ * Is it OPEN now?: YES (Annual cycle)
+ * Opening Date: July 1, 2026 (anticipated based on 2025 cycle)
+ * Deadline: August 14, 2026 (or until 1,250 qualifying applications are received)
+ * Amount / Benefits: $2,500 USD (~₱140,000) pure stipend
+ * Eligible for Incoming 3rd Year?: YES (Must be currently enrolled as full-time undergraduate in 2nd or 3rd year during application)
+ * Eligible for BSIT?: YES (Must study computer science, computer engineering, or closely related technical field like IT)
+ * Region Restriction: None (Must study at an accredited university in the Asia-Pacific region)
+ * Income Requirement: Must demonstrate financial need
+ * GPA Requirement: GWA of at least 85% or equivalent, excellent academic standing
+ * Required Documents: Resume (PDF format), Unofficial Transcript, Essay responses, Recommender contact info (for 2 letters)
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES (Non-exclusive global corporate grant).
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: Online application review, Google Online Challenge (timed cognitive and role-related knowledge assessment), and telephonic technical interview
+ * Exam?: YES (Google Online Challenge)
+ * Interview?: YES
+ * Estimated Competitiveness: Extremely High (globally contested, female-identifying applicants only in APAC)
+ * Estimated Match Score (1-10): 8/10 (High eligibility alignment, restricted to female applicants)
+11. Megaworld Foundation Scholarship
+ * Scholarship Name: Megaworld Foundation Scholarship
+ * Official Organization: Megaworld Foundation, Inc.
+ * Official Website: https://www.megaworldfoundation.com
+ * Official Application Link: https://www.megaworldfoundation.com/scholarship/apply/form
+ * Is it OPEN now?: NO
+ * Opening Date: February 11, 2026
+ * Deadline: February 28, 2026 / July 31, 2026 (for specific partner institutions)
+ * Amount / Benefits: Full tuition coverage (already free), monthly living allowance, professional seminars, and priority career placement at Megaworld Corporation
+ * Eligible for Incoming 3rd Year?: YES (Covers incoming freshmen, sophomores, and juniors)
+ * Eligible for BSIT?: YES (Accepts IT, computer engineering, social sciences)
+ * Region Restriction: Enrolled at partner schools (BatStateU is a partner school)
+ * Income Requirement: Combined annual gross household income not exceeding ₱400,000
+ * GPA Requirement: GWA of at least 85% or equivalent, no subject grade below 80%
+ * Required Documents: TOR/Grades since freshman year, Full-load registration form with class schedule, complete course curriculum, Birth Certificate, ITR or BIR Tax Exemption, Endorsement letter from school, house photos, and utility bills
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Must not enjoy other scholarship grants or financial assistance programs).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Document evaluation, written exam, and multiple interview rounds
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 8/10 (Incompatible with existing awards)
+12. DBP INSPIRE Scholarship Program
+ * Scholarship Name: DBP INSPIRE Scholarship Program
+ * Official Organization: Development Bank of the Philippines (DBP)
+ * Official Website: https://www.dbp.ph
+ * Official Application Link: Coordinated directly through DBP partner SUCs
+ * Is it OPEN now?: YES (announced periodically based on SUC quotas)
+ * Opening Date: Mid-year 2026
+ * Deadline: Policy not explicitly stated
+ * Amount / Benefits: Semestral allowance and learning materials subsidy
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: None (PH-wide SUC network)
+ * Income Requirement: Marginally disadvantaged families
+ * GPA Requirement: Passing academic standing
+ * Required Documents: Transcript of grades, parent ITR, and university registration card
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Academic screening and prioritization of financially needy SUC applicants
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 4/10 (Limited information on SUC quotas for current cycle)
+13. DICT STEM/ICT Scholarship Program
+ * Scholarship Name: DICT STEM/ICT Scholarship Program
+ * Official Organization: Department of Information and Communications Technology (DICT)
+ * Official Website: https://dict.gov.ph
+ * Official Application Link: https://dict.gov.ph
+ * Is it OPEN now?: YES
+ * Opening Date: Rolling announcements
+ * Deadline: Alignment with school enrollment periods
+ * Amount / Benefits: Specialized training, global technical certifications, and direct career-ready upskilling
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Primary targeted segment)
+ * Region Restriction: None
+ * Income Requirement: Socio-economically disadvantaged families
+ * GPA Requirement: Passing marks (no failing grades)
+ * Required Documents: School ID, enrollment verification, and college grades transcript
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Strategic alignment screening and technical program allocation
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Medium-High
+ * Estimated Match Score (1-10): 7/10
+14. Accenture Internship and Sponsorship Program
+ * Scholarship Name: Accenture Internship and Sponsorship Program
+ * Official Organization: Accenture Philippines
+ * Official Website: https://www.accenture.com/ph-en
+ * Official Application Link: https://www.accenture.com/ph-en/careers/form/phstudents
+ * Is it OPEN now?: YES (Active registration)
+ * Opening Date: Rolling basis
+ * Deadline: Rolling
+ * Amount / Benefits: Technical upskilling (ABAP, SAP, Salesforce), industrial mentorship, internship stipend, and priority hiring
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: None
+ * Income Requirement: None
+ * GPA Requirement: Satisfactory academic progress
+ * Required Documents: Technical resume, Letter of Intent, and true copy of college grades
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES (Corporate sponsorship program, non-conflicting).
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: Cognitive assessment, technical upskilling matching, and panel interview
+ * Exam?: YES (Cognitive tests)
+ * Interview?: YES
+ * Estimated Competitiveness: Medium
+ * Estimated Match Score (1-10): 7/10
+15. San Juan, Batangas Iskolar ng Bayan Program
+ * Scholarship Name: San Juan, Batangas Iskolar ng Bayan Program
+ * Official Organization: Municipal Government of San Juan, Batangas
+ * Official Website: https://www.sanjuanbatangas.gov.ph
+ * Official Application Link: Coordinated directly at the Office of the Mayor, San Juan LGU
+ * Is it OPEN now?: YES (Opens in tandem with academic enrollment semesters)
+ * Opening Date: July/August 2026
+ * Deadline: Standard municipal registration deadline
+ * Amount / Benefits: Load assistance and semestral financial support
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: Restricted to residents of San Juan, Batangas
+ * Income Requirement: Financially needy households
+ * GPA Requirement: Must maintain passing grades with no derogatory marks
+ * Required Documents: Completed Iskolar ng Bayan Application Form, Copy of registration form, latest grades, Community Tax Certificate (Cedula), and ID picture
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES.
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: Direct evaluation by the Scholar Head and LGU administrative officers
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Low-Medium
+ * Estimated Match Score (1-10): 6/10 (Requires San Juan, Batangas residency)
+16. CHED Merit Scholarship Program (CMSP)
+ * Scholarship Name: CHED Merit Scholarship Program (CMSP)
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://ched.gov.ph
+ * Official Application Link: Regional online application portal
+ * Is it OPEN now?: NO
+ * Opening Date: June 22, 2026
+ * Deadline: July 31, 2026
+ * Amount / Benefits: ₱40,000 to ₱80,000 per year
+ * Eligible for Incoming 3rd Year?: NO
+ * Eligible for BSIT?: YES
+ * Region Restriction: None
+ * Income Requirement: Combined annual gross income of parents \le ₱500,000
+ * GPA Requirement: GWA of at least 93% in Grade 12
+ * Required Documents: Birth certificate, Form SF9, and proof of income
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Incompatible due to year level restriction).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Strictly restricted to graduating high school students/incoming freshmen
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Extremely High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+17. CHED Bagong Pilipinas Merit Scholarship Program (BPMSP)
+ * Scholarship Name: CHED Bagong Pilipinas Merit Scholarship Program (BPMSP)
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://bpms.ched.gov.ph
+ * Official Application Link: https://bpms.ched.gov.ph
+ * Is it OPEN now?: NO
+ * Opening Date: June 2026
+ * Deadline: July 2026
+ * Amount / Benefits: Full tuition support (private HEIs), stipend, and living allowance
+ * Eligible for Incoming 3rd Year?: NO
+ * Eligible for BSIT?: YES (Priority program under Digital Technology)
+ * Region Restriction: None
+ * Income Requirement: Combined parent income \le ₱2,000,000
+ * GPA Requirement: Minimum Grade 12 GWA of 95%
+ * Required Documents: Birth Certificate, Parent ITR/Exemption, TVET or admission proof
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Limited strictly to qualified first-time entrants/incoming college freshmen with no earned tertiary units
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Extremely High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+18. CHED Scholarship Program for Future Statisticians (Estatistikolar)
+ * Scholarship Name: CHED Scholarship Program for Future Statisticians (Estatistikolar)
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://ched.gov.ph
+ * Official Application Link: Respective regional online CHED portals
+ * Is it OPEN now?: NO
+ * Opening Date: June 22, 2026
+ * Deadline: August 15, 2026
+ * Amount / Benefits: Semestral stipend of ₱35,000 and ₱5,000 book allowance
+ * Eligible for Incoming 3rd Year?: YES (Open to second- to fourth-year college students)
+ * Eligible for BSIT?: NO (Specifically restricted to BS Statistics, BS Applied Statistics, or statistics-heavy programs identified by PSA)
+ * Region Restriction: None
+ * Income Requirement: Combined parental income \le ₱500,000
+ * GPA Requirement: Certified true copy of grades from the last semester attended with passing status
+ * Required Documents: Application form, Birth certificate, TCG, latest parent ITR/Exemption, and Solo Parent/PWD ID (if applicable)
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated (generally restricted to non-merit status).
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Academic evaluation and verification of Statistics program enrollment
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 4/10 (Near-match; ineligible based on course)
+19. CHED Coconut Farmers and Their Families Scholarship Program (CoScho)
+ * Scholarship Name: CHED Coconut Farmers and Their Families Scholarship Program (CoScho)
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://ched.gov.ph
+ * Official Application Link: Respective regional online CHED portals
+ * Is it OPEN now?: YES
+ * Opening Date: June 22, 2026
+ * Deadline: July 31, 2026
+ * Amount / Benefits: Up to ₱40,000 allowance per semester
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Priority agri-tech courses included in specific regions)
+ * Region Restriction: None
+ * Income Requirement: Must be registered coconut farmers or their direct dependents
+ * GPA Requirement: Satisfactory academic standing
+ * Required Documents: Certification of registration under the National Coconut Farmers Registry System (NCFRS), Birth certificate, and true copy of college grades
+ * Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: Prioritization of NCFRS listed families, followed by academic evaluation
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 3/10 (Near-match; requires specialized coconut farmer registry)
+20. CHED Medical Scholarship and Return Service (MSRS) Program
+ * Scholarship Name: CHED Medical Scholarship and Return Service (MSRS) Program
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://ched.gov.ph
+ * Official Application Link: Coordinated directly through medical partner HEIs (such as BatStateU Medicine program)
+ * Is it OPEN now?: YES (during medical school admission windows)
+ * Opening Date: June/July 2026
+ * Deadline: Policy not explicitly stated
+ * Amount / Benefits: Core tuition and fee coverage, living allowance, book allowance, transport allowance, and internship support
+ * Eligible for Incoming 3rd Year?: NO (Only for Doctor of Medicine students)
+ * Eligible for BSIT?: NO (Strictly restricted to medical programs)
+ * Region Restriction: Restricted to medical school partner HEIs
+ * Income Requirement: Disadvantaged, indigent, or underrepresented candidates
+ * GPA Requirement: Meets medical school entrance standards and retaining rules
+ * Required Documents: National Medical Admission Test (NMAT) score, medical school admission, birth certificate, parent ITR, and return service agreement
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Medical school ranking, financial screening, and commitment to rural return service
+ * Exam?: YES (NMAT)
+ * Interview?: YES
+ * Estimated Competitiveness: Extremely High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on course)
+### 21. CHED Allied Health Education and Development (AHEAD) Grant
+ * Scholarship Name: CHED Allied Health Education and Development (AHEAD) Grant
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://ched.gov.ph
+ * Official Application Link: Coordinated through participating HEIs
+ * Is it OPEN now?: YES
+ * Opening Date: July 2026
+ * Deadline: School-specific deadlines
+ * Amount / Benefits: One-time clinical training or RLE assistance of ₱25,000
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: NO (Strictly limited to Nursing and Allied Health students undergoing clinical training)
+ * Region Restriction: None
+ * Income Requirement: Financial need
+ * GPA Requirement: Satisfactory academic standing
+ * Required Documents: Clinical rotation schedule, copy of registration form, and True Copy of Grades
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Direct verification of allied health clinical enrollment
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Medium
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on course)
+22. CHED Areas with Special Development Needs (SIDA-SGP)
+ * Scholarship Name: CHED Areas with Special Development Needs (SIDA-SGP)
+ * Official Organization: Commission on Higher Education (CHED)
+ * Official Website: https://ched.gov.ph
+ * Official Application Link: Coordinated via regional CHED Offices
+   * Is it OPEN now?: YES
+ * Opening Date: June 2026
+ * Deadline: Alignment with regional schedules
+ * Amount / Benefits: Semestral cash subsidy, tuition assistance, and book support
+ * Eligible for Incoming 3rd Year?: NO (Freshman-entry program targeting specific regional areas)
+ * Eligible for BSIT?: YES
+ * Region Restriction: Restricted to areas with special development needs
+ * Income Requirement: Low-income families
+ * GPA Requirement: Standard passing marks
+ * **Required Documents: Residency certificate, ITR/Indigency, and admission proof
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Location-based screening and household income verification
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level and regional target)
+23. Aboitiz Future Leaders Scholarship Program
+ * Scholarship Name: Aboitiz Future Leaders Scholarship Program
+ * Official Organization: Aboitiz Foundation
+ * Official Website: https://aboitiz.com
+ * Official Application Link: Coordinated via internal partner portals
+ * Is it OPEN now?: NO
+ * Opening Date: August 1, 2025/2026
+ * Deadline: September 1, 2025/2026
+ * Amount / Benefits: Full tuition support, monthly stipend, academic excellence incentives, and a mandatory 400-hour internship within Aboitiz business units
+ * Eligible for Incoming 3rd Year?: NO (Strictly open only to incoming sophomore students who have completed their first year in college)
+ * Eligible for BSIT?: YES (Accepts computer science/technology fields)
+ * Region Restriction: Enrolled at partner universities
+ * Income Requirement: Financial need
+ * GPA Requirement: GWA of at least 88%, with no failing, incomplete, or dropped grades
+ * Required Documents: Copy of student ID, Certificate of Good Moral Character, TOR for first year, and registration form
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Recipients of other corporate foundation scholarships are not eligible).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Application screening, initial panel interview, and third-party competency exam
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+24. Aboitiz Foundation Dualtech Scholarship Program
+ * Scholarship Name: Aboitiz Foundation Dualtech Scholarship Program
+ * Official Organization: Aboitiz Foundation / Dualtech Training Center
+ * Official Website: https://www.dualtech.org.ph
+ * Official Application Link: Coordinated at Dualtech Center, Calamba
+ * Is it OPEN now?: YES
+ * Opening Date: Rolling admission
+ * Deadline: Rolling admission
+ * Amount / Benefits: Subsidized training expenses for Electromechanics, OJT placements, and technical tools support
+ * Eligible for Incoming 3rd Year?: NO (Strictly for 2-year technical-vocational program students)
+ * Eligible for BSIT?: NO (Strictly for Electromechanics Technology course)
+ * Region Restriction: None
+ * Income Requirement: Indigent young men
+ * GPA Requirement: Basic passing standard
+ * Required Documents: Direct application to Dualtech, barangay certificate, and report card
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Direct recruitment and technical diagnostic examination
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: Medium
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on course type)
+25. Lao Foundation Dualtech Scholarship Program
+ * Scholarship Name: Lao Foundation Dualtech Scholarship Program
+ * Official Organization: Lao Foundation / Dualtech Training Center
+ * Official Website: https://www.dualtech.org.ph
+ * Official Application Link: Coordinated at Dualtech Center, Calamba
+ * Is it OPEN now?: YES
+ * Opening Date: Rolling admission
+ * Deadline: Rolling admission
+ * Amount / Benefits: Subsidized training fees for the 2-Year Electromechanics course and regular placement with industrial partners (e.g., Oleofats, Inc.)
+ * Eligible for Incoming 3rd Year?: NO (Strictly for 2-year technical-vocational program students)
+ * Eligible for BSIT?: NO
+ * Region Restriction: None
+ * Income Requirement: Indigent youth
+ * GPA Requirement: Basic passing standard
+ * Required Documents: Direct application, barangay certificate, and report card
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Direct recruitment, diagnostic exam, and values-matching interview
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: Medium
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on course type)
+26. SM Foundation College Scholarship Program
+ * Scholarship Name: SM Foundation College Scholarship Program
+ * Official Organization: SM Foundation
+ * Official Website: https://www.sm-foundation.org
+ * Official Application Link: Respective SM Scholarship online application portal
+ * Is it OPEN now?: NO
+ * Opening Date: Aligned with high school graduation timelines (December-February)
+ * Deadline: Policy not explicitly stated
+ * Amount / Benefits: Full tuition coverage, monthly allowance, and part-time job opportunities during school breaks
+ * Eligible for Incoming 3rd Year?: NO (Limited to graduating Grade 12 high school students)
+ * Eligible for BSIT?: YES (Accepts IT, Accounting, Engineering, Education)
+ * Region Restriction: Enrolled at partner schools
+ * Income Requirement: Total household income \le ₱250,000
+ * GPA Requirement: Grade 12 1st semester GWA \ge 92%
+ * Required Documents: Grade 12 Report Card, ITR or Indigency
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Online evaluation, online academic exam, virtual interview, and digital home visit validation
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: Extremely High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+27. Security Bank Foundation External College Scholarship
+ * Scholarship Name: Security Bank Foundation External College Scholarship
+ * Official Organization: Security Bank Foundation, Inc. (SBFI)
+ * Official Website: https://www.securitybank.com/foundation
+ * Official Application Link: https://forms.gle/gPRiiuBcuqSbfjhe7
+ * Is it OPEN now?: NO
+ * Opening Date: May 28, 2025/2026
+ * Deadline: June 30, 2025/2026
+ * Amount / Benefits: ₱100,000 annual stipend for state SUC scholars
+ * Eligible for Incoming 3rd Year?: YES (Continuing college students have limited slots)
+ * Eligible for BSIT?: YES (Accepts IT, Computer Science, and technology courses)
+ * Region Restriction: Limited strictly to 8 partner schools (ADMU, DLSU, FEU, PLM, PUP, UPD, UST, CKSC)
+ * Income Requirement: Underprivileged and deserving students
+   * GPA Requirement: GWA \ge 93%, with no subject grade below 86%
+ * Required Documents: Transcripts, parent ITR/Indigency, acceptance/enrollment letter, and PSA birth certificate
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Must not hold any other family member scholarships or parallel external grants).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Multi-stage online evaluation, verification calls, and administrative review
+ * Exam?: NO (Qualifying screening focuses on academic history)
+ * Interview?: NO (Validation call only)
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on school; BatStateU is not a partner school)
+28. Security Bank Foundation RMKK Agency Personnel Scholarship
+ * Scholarship Name: Security Bank Foundation RMKK Agency Personnel Scholarship
+ * Official Organization: Security Bank Foundation, Inc. (SBFI)
+ * Official Website: https://www.securitybank.com
+ * Official Application Link: Dedicated internal RMKK portal
+ * Is it OPEN now?: YES (Opens in line with corporate internal cycles)
+ * Opening Date: Policy not explicitly stated
+ * Deadline: Policy not explicitly stated
+ * Amount / Benefits: Up to ₱30,000 per academic year for college-level courses
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: None (PH-wide)
+ * Income Requirement: Exclusive to Security Bank agency personnel and their children
+ * GPA Requirement: GWA of at least 83% (or equivalent)
+ * Required Documents: Report card/grades transcript, Birth certificate, and endorsement letters from both the Security Bank Group Head and the outsourcing agency
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (No other existing scholarship except school-offered academic discounts).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Internal corporate selection and agency performance audit
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Medium
+ * Estimated Match Score (1-10): 1/10 (Ineligible; restricted to bank agency employees)
+29. Security Bank Foundation Employee Dependent Internal Scholarship
+ * Scholarship Name: Security Bank Foundation Employee Dependent Internal Scholarship
+ * Official Organization: Security Bank Foundation, Inc. (SBFI)
+ * Official Website: https://www.securitybank.com
+ * Official Application Link: Coordinated internally via SB Employee Portal
+ * Is it OPEN now?: YES
+ * Opening Date: June 2026
+ * Deadline: June 30, 2026
+ * Amount / Benefits: Direct tuition and stipend educational assistance
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: None
+ * Income Requirement: Strictly restricted to children of permanent Security Bank employees with at least 2 years of tenure
+ * GPA Requirement: GWA of at least 83% (and 83% minimum grade in every individual subject)
+ * Required Documents: Online application, Employee ID copy, Birth certificate, Course curriculum, and true copy of college grades
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Corporate evaluation of employee tenure/appraisals and dependent grades
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Medium
+ * Estimated Match Score (1-10): 1/10 (Ineligible; restricted to bank staff dependents)
+30. BPI Foundation Pagpupugay Scholarship
+ * Scholarship Name: BPI Foundation Pagpupugay Scholarship
+   * Official Organization: BPI Foundation
+ * Official Website: https://www.bpifoundation.org
+ * Official Application Link: https://bit.ly/2022PagpupugayAppForm
+ * Is it OPEN now?: NO
+ * Opening Date: June 2026
+ * Deadline: Closed
+ * Amount / Benefits: Up to ₱100,000 scholarship fund per academic year
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: None (Offers assistance nationwide at partner institutions)
+ * Income Requirement: Must be the next of kin of a medical frontliner who contracted COVID-19 or passed away in the line of duty
+ * GPA Requirement: Must maintain GWA \ge 85% or equivalent
+ * Required Documents: Endorsement letter from hospital of deployment, birth certificates showing relationship, medical/death certificates indicating COVID-19, parents' ITR, TCG, and Good Moral certificate
+ * **Existing Scholar Policy:
+   * ELAP Compatibility: Policy not explicitly stated.
+   * Provincial Scholarship Compatibility: Policy not explicitly stated.
+ * Selection Process: School-level shortlist followed by academic and financial need evaluation by BPIF
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 2/10 (Requires specialized medical frontliner relationship)
+31. BPI-DOST Innovation Awards
+ * Scholarship Name: BPI-DOST Innovation Awards
+ * Official Organization: BPI Foundation & DOST-STII
+ * Official Website: https://www.bpifoundation.org
+ * Official Application Link: Submissions are coursed internally through the University Dean
+ * Is it OPEN now?: NO
+ * Opening Date: January 2026
+ * Deadline: June 30, 2026
+ * Amount / Benefits: ₱60,000 for each of the Top 10 teams; ₱150,000 cash prize for the top 3 overall winning projects
+ * Eligible for Incoming 3rd Year?: YES (Open to junior and senior 3rd–5th year undergraduate students)
+ * Eligible for BSIT?: YES (Open to all Basic and Applied Sciences majors)
+ * Region Restriction: None (PH-wide)
+ * Income Requirement: None (Competition/Project-based)
+ * GPA Requirement: Must have regular enrollment status and no failing grades
+ * Required Documents: Contestant form, questionnaire, certified copy of grades, Dean/Counselor non-disciplinary certification, and a 3-minute video documentation of the lab-validated project (TRL 4)
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES (Allows multiple external grants as it is a project competition award).
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: SUC project endorsement (one project per school), screening of project technical readiness, and final project pitch presentation
+ * Exam?: NO
+ * Interview?: YES (Team project presentation/defense)
+ * Estimated Competitiveness: Extremely High
+ * Estimated Match Score (1-10): 7/10
+32. InLife Gold Eagle College Scholarship Program
+ * Scholarship Name: InLife Gold Eagle College Scholarship Program
+ * Official Organization: Insular Life Foundation
+ * Official Website: https://www.insularfoundation.com.ph
+ * Official Application Link: https://tinyurl.com/2026GoldEagleInitialAppForm
+ * Is it OPEN now?: NO
+ * Opening Date: February 6, 2026
+ * Deadline: June 30, 2026
+ * Amount / Benefits: Semestral stipends, book allowances, transportation subsidies, and honor incentives
+ * Eligible for Incoming 3rd Year?: NO (Strictly limited to incoming 1st year college students)
+ * Eligible for BSIT?: YES
+ * Region Restriction: Restricted to partner schools (UPD, ASCOT, BSU, BISU, CMU, DORSU)
+ * Income Requirement: Gross parent income \le ₱500,000 for UP Diliman; \le ₱250,000 for provincial SUCs
+ * GPA Requirement: GWA \ge 85% in Grade 11 and 12
+ * Required Documents: Certified True Copy of Grade 11 and 12 report card, Good moral cert, and parent ITR
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Must not be a recipient of any other scholarship grant).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Application verification, grade check, and onboarding orientation
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+33. PHINMA National Scholarship (PNS) Program
+ * Scholarship Name: PHINMA National Scholarship (PNS) Program
+ * Official Organization: PHINMA Foundation, Inc.
+ * Official Website: https://www.phinmafoundation.org
+ * Official Application Link: Submissions coursed through SUC student affairs offices
+ * Is it OPEN now?: NO
+ * Opening Date: June 12, 2026
+ * Deadline: July 15, 2026
+ * Amount / Benefits: Monthly stipend, leadership training, mentorship, and graduation honors cash incentives
+ * Eligible for Incoming 3rd Year?: NO (Incoming 2nd year only for continuing college applicants)
+ * Eligible for BSIT?: NO (Restricted to BS Accountancy, BS Civil, BS Electrical, BS Mechanical, and BS Electronics Engineering, except for Pangasinan/PNU Education tracks)
+ * Region Restriction: Limited strictly to 5 partner schools (UPD, PUP Sta. Mesa, PNU Manila, TUP Manila, PHINMA UPang)
+ * Income Requirement: Gross household income below ₱300,000
+ * GPA Requirement: GWA \ge 80% with no failing or incomplete marks
+ * Required Documents: True Copy of Grades, Registration Form, electric/water utility bills, and two sealed PNS Recommendation Forms
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Must not hold other major external merit scholarships).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: SUC screening of physical envelope submissions and panel interviews
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on SUC and course type)
+34. Huawei Seeds for the Future Program
+ * Scholarship Name: Huawei Seeds for the Future Program
+   * Official Organization: Huawei Technologies Phils. Inc.
+ * Official Website: https://www.huawei.com/minisite/seeds-for-the-future
+ * Official Application Link: Coordinated directly through ICT Academy partner schools
+ * Is it OPEN now?: YES (Annually updated)
+ * Opening Date: Policy not explicitly stated
+ * Deadline: Program-specific calendar
+ * Amount / Benefits: All-expenses-paid short-term technical training, participation in the global Tech4Good competition, and technical certification vouchers
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Highly aligned with target computer science/IT students)
+ * Region Restriction: None (PH-wide)
+ * Income Requirement: None (Merit-based)
+ * GPA Requirement: Strong academic records and passion for ICT innovation
+ * Required Documents: Application form, personal letter of intent, resume, and coding portfolio
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES (Non-tuition educational program, compatible).
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: Application screening, video presentation, and technical screening rounds
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 5/10 (High academic alignment, but focuses on short-term training rather than ongoing cash stipends)
+35. Huawei-DLSU Engineering and Technology Scholarship
+ * Scholarship Name: Huawei-DLSU Engineering and Technology Scholarship
+ * Official Organization: Huawei Technologies Phils. Inc. / DLSU
+ * Official Website: https://www.dlsu.edu.ph
+ * Official Application Link: Direct student submission at DLSU Office of Admissions and Scholarships
+ * Is it OPEN now?: NO
+ * Opening Date: Academic Year Start
+ * Deadline: Evaluated per semestral cycle
+ * Amount / Benefits: Semestral tuition coverage and cash allowance
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES (Restricted to DLSU Colleges of Engineering, Science, and Computer Studies)
+ * Region Restriction: Must be enrolled as a student at De La Salle University (Manila)
+ * Income Requirement: Financial need and merit
+ * GPA Requirement: Meet DLSU academic standards
+ * Required Documents: DLSU scholarship form, academic records, and parent ITR
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Direct evaluation by DLSU scholarship board and country representatives
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on university)
+36. Huawei-Ateneo Science and Engineering Scholarship
+ * Scholarship Name: Huawei-Ateneo Science and Engineering Scholarship
+ * Official Organization: Huawei Technologies Phils. Inc. / Ateneo de Manila University
+ * Official Website: https://www.ateneo.edu
+ * Official Application Link: Ateneo Office of Admissions and Aid
+ * Is it OPEN now?: YES (Renewed via supplemental agreement in 2024)
+ * Opening Date: Aligned with first semester enrollment
+ * Deadline: Coordinated with Ateneo scheduling
+ * Amount / Benefits: Tuition waiver and monthly living support
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: NO (Restricted to Ateneo students in BS Computer Science, BS Electronics Engineering, and BS Computer Engineering)
+ * Region Restriction: Must be enrolled as an undergraduate at Ateneo de Manila University
+ * Income Requirement: Merit and financial need
+ * GPA Requirement: Maintain high average with no failing grades
+ * Required Documents: ADMU scholarship form, grades transcript, and parental ITR
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: School screening and joint review with Huawei Public Affairs
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on university and course)
+37. Accenture Analytics Career Path Scholarship
+ * Scholarship Name: Accenture Analytics Career Path Scholarship
+ * Official Organization: Accenture / Universitat Politecnica de Catalunya (UPC)
+ * Official Website: https://www.wemakescholars.com
+ * Official Application Link: Coordinated directly on UPC application form
+ * Is it OPEN now?: NO (Application cycle expired)
+ * Opening Date: Policy not explicitly stated
+ * Deadline: Closed
+ * Amount / Benefits: Covers the cost of enrollment credits and administrative fees
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: NO (Specifically restricted to Statistics and Operations Research)
+ * Region Restriction: Must be enrolled in a program at UPC Barcelona Tech, Spain
+ * Income Requirement: Open to all nationals
+ * GPA Requirement: High academic standing
+ * Required Documents: Transcripts, academic recommendations, resume, and study visa proof
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Academic evaluation of applicants by Accenture's financial aid office
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on location and course)
+38. Study in Saudi Arabia Program
+ * Scholarship Name: Study in Saudi Arabia Program
+ * Official Organization: Ministry of Education, Kingdom of Saudi Arabia
+ * Official Website: https://studyinsaudi.moe.gov.sa
+ * Official Application Link: https://studyinsaudi.moe.gov.sa
+ * Is it OPEN now?: YES
+ * Opening Date: Aligned with international schedules
+ * Deadline: Dependent on the university selection cycle
+ * Amount / Benefits: Full tuition waiver, monthly living allowance, free housing, and medical care
+ * Eligible for Incoming 3rd Year?: NO (Mainly open for international freshmen degree seekers)
+ * Eligible for BSIT?: YES
+ * Region Restriction: Must move to a participating university in Saudi Arabia
+ * Income Requirement: None
+ * GPA Requirement: Excellent academic standing
+ * Required Documents: Valid passport, high school diploma/TOR, birth certificate, and medical certificates
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Incompatible with full local residency).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Direct evaluation by the Saudi Ministry of Education
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Requires moving abroad, ineligible for continuing local undergraduates)
+39. AMEXCID Merit Scholarship for Foreigners
+ * Scholarship Name: AMEXCID Merit Scholarship for Foreigners
+ * Official Organization: Mexican Agency for International Development Cooperation (AMEXCID)
+ * Official Website: https://www.gob.mx/amexcid
+ * Official Application Link: Online submission through the AMEXCID portal
+ * Is it OPEN now?: YES
+ * Opening Date: Academic year cycle
+ * Deadline: Varies
+ * Amount / Benefits: Living allowance, registration/tuition support, health insurance, and international travel allowance
+ * Eligible for Incoming 3rd Year?: NO (Restricted to undergraduate and master's mobility programs, or postgrad studies)
+ * Eligible for BSIT?: YES
+ * Region Restriction: Must move to a participating institution in Mexico
+ * Income Requirement: None
+ * GPA Requirement: High academic standing (GWA \ge 85% equivalent)
+ * Required Documents: Admission letter from Mexican SUC, passport, transcript of records, and medical clearance
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Competitive academic screening and bilateral evaluation
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 1/10 (Requires moving abroad, ineligible for continuing local SUC students)
+40. Gawad Lingkod Bayani PASUC Scholarship Program
+ * Scholarship Name: Gawad Lingkod Bayani PASUC Scholarship Program
+ * Official Organization: Civil Service Commission (CSC) & PASUC
+ * Official Website: https://www.csc.gov.ph
+ * Official Application Link: Coordinated directly through the CSC central human resources office
+ * Is it OPEN now?: YES
+ * Opening Date: May 25, 2026
+ * Deadline: Policy not explicitly stated
+ * Amount / Benefits: Direct educational subsidies and tuition benefits at any PASUC-member SUC
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: YES
+ * Region Restriction: Must be enrolled in a PASUC-member SUC (such as BatStateU)
+ * Income Requirement: Policy not explicitly stated
+ * GPA Requirement: Policy not explicitly stated
+ * Required Documents: CSC nomination document, PDS form, Certificate of Good Moral Character, and enrollment verification from SUC
+ * Existing Scholar Policy:
+   * ELAP Compatibility: YES (Special state award program).
+   * Provincial Scholarship Compatibility: YES.
+ * Selection Process: Limited strictly to Gawad Lingkod Bayani national awardees and Pamanang Lingkod Bayani beneficiaries
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: Low-Medium (highly specific beneficiary pool)
+ * Estimated Match Score (1-10): 5/10 (Requires specialized family status linked to national civil service awards)
+41. Metrobank Foundation ACCESS Scholarship Program
+ * Scholarship Name: Metrobank Foundation ACCESS Scholarship Program
+ * Official Organization: Metrobank Foundation, Inc.
+ * Official Website: https://www.mbfoundation.org.ph
+ * Official Application Link: Applications processed directly through SUC scholarship departments
+ * Is it OPEN now?: NO
+ * Opening Date: Aligned with first semester enrollment cycles
+ * Deadline: Coordinated with partner universities
+ * Amount / Benefits: Covers tuition fees and fixed allowances every semester, along with holistic upskilling workshops
+ * Eligible for Incoming 3rd Year?: NO (ACCESS is a four-year scholarship for incoming college freshmen)
+ * Eligible for BSIT?: YES (Accepts IT majors)
+ * Region Restriction: Limited strictly to selected Level II and III PAASCU-accredited institutions
+ * Income Requirement: Combined annual parent income below ₱500,000
+ * GPA Requirement: GWA \ge 85% or equivalent
+ * Required Documents: Proof of grades, income verification (ITR/Indigency), ID picture, and enrollment proof
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Document screening, validation interviews, and qualification exams
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: Extremely High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level and school accreditation)
+42. Metrobank Foundation Excellence in Teaching Program (ETP)
+ * Scholarship Name: Metrobank Foundation Excellence in Teaching Program (ETP)
+ * Official Organization: Metrobank Foundation / Pi Lambda Theta
+ * Official Website: https://www.mbfoundation.org.ph
+ * Official Application Link: Handled via SUC centers of excellence
+ * Is it OPEN now?: NO
+ * Opening Date: Academic year start
+ * Deadline: Enrollment season
+ * Amount / Benefits: Stipends, tuition support, and development programs
+ * Eligible for Incoming 3rd Year?: YES (Aimed at incoming 3rd year college students)
+ * Eligible for BSIT?: NO (Strictly limited to Education majors)
+ * Region Restriction: Restricted to SUCs identified as Centers of Excellence in Education
+ * Income Requirement: Poorest regions
+ * GPA Requirement: Minimum grade average of 85%
+ * Required Documents: Certified copy of grades, parent ITR, and recommendation letter
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: SUC nomination and academic review
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on course)
+43. Metrobank Foundation Grants in Aid of College Education (GRACE)
+ * Scholarship Name: Metrobank Foundation Grants in Aid of College Education (GRACE)
+ * Official Organization: Metrobank Foundation, Inc.
+ * Official Website: https://www.mbfoundation.org.ph
+ * Official Application Link: Coordinated via partner school scholarship offices
+ * Is it OPEN now?: NO
+ * **Opening Date: Evaluated at the start of the final year
+ * Deadline: School-specific timelines
+ * Amount / Benefits: Semestral cash subsidy
+ * Eligible for Incoming 3rd Year?: NO (Strictly restricted to academically excellent graduating senior students in danger of dropping out)
+ * Eligible for BSIT?: YES
+ * Region Restriction: Restricted to selected Level II and III accredited partner schools
+ * Income Requirement: High financial risk of dropping out
+ * GPA Requirement: \ge 85% average
+ * Required Documents: Enrollment proof, TOR, parent financial loss proof, and indigency certificates
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: SUC counselor endorsement and financial audit
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+44. Metrobank Foundation Metrobank Scholarship Program (MSP)
+ * Scholarship Name: Metrobank Foundation Metrobank Scholarship Program (MSP)
+ * Official Organization: Metrobank Foundation, Inc.
+ * Official Website: https://www.mbfoundation.org.ph
+ * Official Application Link: Partner university portals
+ * Is it OPEN now?: NO
+ * Opening Date: Academic year start
+ * Deadline: Enrollment season
+ * Amount / Benefits: Direct semestral cash stipends and tuition waivers
+ * Eligible for Incoming 3rd Year?: NO (Freshman-entry program)
+ * Eligible for BSIT?: YES (Priority courses include IT, Education, Engineering, and Business)
+ * Region Restriction: Restricted to partner schools
+ * Income Requirement: Marginalized households
+ * GPA Requirement: Satisfactory academic progress
+ * Required Documents: Academic report cards, parent income proof, and university registration card
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: School-level endorsement and administrative review
+ * Exam?: YES
+ * Interview?: YES
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+45. Metrobank Foundation-Boysen Paint Scholarship Program
+ * Scholarship Name: Metrobank Foundation-Boysen Paint Scholarship Program
+ * Official Organization: Metrobank Foundation & Boysen Paint
+ * Official Website: https://www.mbfoundation.org.ph
+ * Official Application Link: Coordinated directly through partner SUC architecture departments
+ * Is it OPEN now?: YES (MOA signed in March 2025)
+ * Opening Date: Aligned with first semester enrollment
+ * Deadline: Policy not explicitly stated
+ * Amount / Benefits: Direct semestral cash stipends, design project support, and book allowances
+ * Eligible for Incoming 3rd Year?: YES
+ * Eligible for BSIT?: NO (Specifically restricted to Architecture majors)
+ * Region Restriction: Limited to architecture partner schools
+ * Income Requirement: Underprivileged
+ * GPA Requirement: Meets program-specific standards (GWA \ge 85%)
+ * Required Documents: Architecture portfolio, certified copies of grades, and parent income documents
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: SUC internal architecture board endorsement and creative design evaluation
+ * Exam?: NO
+ * Interview?: YES
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on course)
+46. Ayala Foundation U-Go Scholar Grant Program
+ * Scholarship Name: Ayala Foundation U-Go Scholar Grant Program
+ * Official Organization: Ayala Foundation, Inc. / U-Go Global
+ * Official Website: https://ayalafoundation.org/programs/scholarships
+ * Official Application Link: Eligibility portal accessible via online registration
+ * Is it OPEN now?: NO
+ * Opening Date: May 5, 2026
+ * **Deadline: June 6, 2026
+ * Amount / Benefits: ₱40,000 annual financial assistance, leadership training, and professional development programs
+ * Eligible for Incoming 3rd Year?: YES (Covers incoming 1st to 3rd year college students)
+ * Eligible for BSIT?: YES (Highly prioritizes girls in STEM courses)
+ * Region Restriction: Must move to/enrolled in a public or state university (such as BatStateU)
+ * Income Requirement: Low-income families
+ * GPA Requirement: GWA of at least 85% with no failing grades
+ * Required Documents: Certificate of Registration signed by registrar (wet signature), latest copy of grades signed by registrar, parents' ITR, BIR Tax Exemption, or Certificate of Indigency, and utility bills
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO (Must not have any existing scholarship of any kind).
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Eligibility screening, document upload review, recommendation letter submission (for shortlisted candidates), and online interview
+ * Exam?: NO (Qualifying screening is evaluation-based)
+ * Interview?: YES (Conducted online)
+ * Estimated Competitiveness: Very High
+ * Estimated Match Score (1-10): 1/10 (Requires female identity and prohibits holding other active grants)
+47. GSIS Subsidy for STEM Program (GSSP)
+ * Scholarship Name: GSIS Subsidy for STEM Program (GSSP)
+ * Official Organization: Government Service Insurance System (GSIS)
+ * Official Website: https://www.gsis.gov.ph
+ * Official Application Link: Physical submission to regional GSIS offices
+ * Is it OPEN now?: NO
+ * Opening Date: June 30, 2026
+ * Deadline: August 31, 2026
+ * Amount / Benefits: ₱15,000 per academic year and monetary incentives for Latin honors (up to ₱50,000 for Summa Cum Laude)
+ * Eligible for Incoming 3rd Year?: NO (Limited strictly to incoming first-time college freshmen)
+ * Eligible for BSIT?: YES (Priority science/technology courses)
+ * Region Restriction: None
+ * Income Requirement: Open to children of active GSIS members with permanent employment status at Salary Grade 15 or below
+ * GPA Requirement: GWA of at least 90% in Senior High School
+ * Required Documents: PSA birth certificate, parent Certificate of Employment (COE), college admission certification, and SHS report card
+ * Existing Scholar Policy:
+   * ELAP Compatibility: NO.
+   * Provincial Scholarship Compatibility: NO.
+ * Selection Process: Direct evaluation by regional offices, prioritizing applicants whose parents have the lowest basic salaries
+ * Exam?: NO
+ * Interview?: NO
+ * Estimated Competitiveness: High
+ * Estimated Match Score (1-10): 1/10 (Ineligible based on year level)
+Comparative Scholarship Database for SUC Undergraduates
+This database details the first comparative matrix containing the 47 evaluated programs, tracking variables of eligibility, alignment, and compatibility.
+| Scholarship | Organization | Open | Deadline | Incoming 3rd Year | BSIT | Existing Scholars Allowed | ELAP Compatible | Region Restriction | Benefits | Income Limit | GPA Requirement | Documents | Official Link | Match Score (1-10) | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| DOST JLSS (RA 7687) | DOST-SEI | NO | May 15, 2026 | YES | YES | NO | Policy not explicitly stated | None | ₱8,000/mo stipend, ₱10k/yr books, thesis, insurance | Disadvantaged | GWA \ge 83% | TOR/TCG, Forms A-E, Parent income | jlss.science-scholarships.ph | 10/10 | Closed for current cycle. Requires qualifying exam. |
+| DOST JLSS (Merit) | DOST-SEI | NO | May 15, 2026 | YES | YES | NO | Policy not explicitly stated | None | ₱8,000/mo stipend, ₱10k/yr books, thesis, insurance | None | GWA \ge 83% | TOR/TCG, Forms A-D, Good Moral | jlss.science-scholarships.ph | 10/10 | Closed for current cycle. High GWA compatibility. |
+| DOST JLSS (RA 10612) | DOST-SEI | NO | May 15, 2026 | YES | YES | NO | Policy not explicitly stated | None | ₱8,000/mo stipend, ₱10k/yr books, teaching job | None | GWA \ge 83% | TOR/TCG, Good moral, teaching return agreement | jlss.science-scholarships.ph | 9/10 | Mandatory teaching service may divert from software engineering goals. |
+| GBF STEM College | GBF | NO | May 31, 2026 | YES | YES | YES | Policy not explicitly stated | None | Up to ₱120k/yr grant, upskilling, internships | Financial need | GWA \ge 85% | Grades, registration form, parent income, portfolio | bit.ly/GBFSTEMCollege | 9/10 | Direct software pipeline; allowed parallel awards on case-by-case basis. |
+| Presidential Scholars (B BBM) | OP / LGU | YES | Rolling | YES | YES | YES | YES | Batangas resident | ₱20,000 educational assistance | Low-income | Policy not explicitly stated | Residency, indigency, school enrollment | Coordinated at Barangay Hall | 9/10 | Active rolling local initiative; matches a Batangas residential profile. |
+| Batangas EBD Scholarship | City Hall | YES | August 2026 | YES | YES | YES | Policy not explicitly stated | Batangas City | ₱3,000 allowance/sem for SUC scholars | Marginally poor | GWA \ge 2.5 (80%) | Endorsement, application letter, grades | Coordinated at City Hall | 9/10 | Outstanding local fit for BatStateU students. Sibling limit applies. |
+| CHED TDP | CHED | YES | July 2026 | YES | YES | NO | Policy not explicitly stated | Sponsoring district | ₱15,000/yr stipend | Socio-economic | Passing standing | Registrar COR, indigency, ID, application form | ched.gov.ph | 9/10 | Facilitated through the local congressional district office. |
+| CHED TES | UniFAST | YES | August 2026 | YES | YES | NO | Policy not explicitly stated | None | ₱20,000 to ₱40,000 per year | Prioritizes DSWD list | Passing average | University COR, copy of grades | unifast.gov.ph | 9/10 | Internal submission via university portal; highly restricted quotas. |
+| Fuji Haya Electric | BatStateU | YES | Direct coordination | YES | YES | NO | Policy not explicitly stated | BatStateU student | Substantial grant, seminar, internship | Financial need | High standing | Registration form, TCG, good moral | global.batstateu.edu.ph | 8/10 | Directly linked with Alangilan Campus; technical alignment. |
+| Generation Google (APAC) | Google | YES | August 14, 2026 | YES | YES | YES | YES | None | $2,500 USD (~₱140,000) pure cash | Financial need considered | Strong academic record | CV, transcript, essays, references | buildyourfuture.withgoogle.com | 8/10 | Exclusively targeted at female-identifying technology majors. |
+| Megaworld Foundation | Megaworld | NO | July 31, 2026 | YES | YES | NO | NO | Partner schools | Tuition waiver, stipend, corporate OJT | Income \le ₱400,000 | GWA \ge 85% | TOR, full-load COR, parents' ITR, photos | megaworldfoundation.com/scholarship | 8/10 | BatStateU partner; holding other active grants violates terms. |
+| DICT STEM | DICT | YES | Rolling | YES | YES | YES | YES | None | Technical certifications, training vouchers | Financial need | Passing | School ID, registration form, grades | dict.gov.ph | 7/10 | Tailored for career mismatch solutions. |
+| Accenture Internship | Accenture | YES | Rolling | YES | YES | YES | YES | None | Upskilling (SAP, Salesforce), OJT allowance | None | Regular standing | Resume, grades transcript, LOI | accenture.com/ph-en | 7/10 | Excellent career alignment with Software Engineer goals. |
+| San Juan Batangas | Municipal | YES | Enrollment cycle | YES | YES | YES | YES | San Juan resident | Load assistance, semestral stipend | Low-income | Passing standing | Application form, registration card, grades | sanjuanbatangas.gov.ph | 6/10 | Dependent on direct residency in San Juan municipality. |
+| CSC Gawad PASUC | CSC | YES | Policy not explicitly stated | YES | YES | YES | YES | None (PASUC HEIs) | Full educational subsidies | Policy not explicitly stated | Policy not explicitly stated | CSC nomination, PDS, service record | csc.gov.ph | 5/10 | Restricts eligibility to Gawad awardees and kin. |
+| DBP INSPIRE | DBP | YES | Policy not explicitly stated | YES | YES | NO | NO | None (PH-wide) | Semestral allowance | Disadvantaged | Policy not explicitly stated | TOR, parent ITR, registration form | dbp.ph | 4/10 | Near-match; requires institutional quota confirmation. |
+| CHED Estatistikolar | CHED | NO | August 15, 2026 | YES | NO | NO | NO | None | Semestral ₱35,000 stipend, ₱5,000 books | Parents income \le ₱500k | TCG passing | Grades transcript, birth certificate, parent ITR | legacy.ched.gov.ph/estatistikolar | 4/10 | Ineligible. Limited strictly to Statistics programs. |
+| CHED CoScho | CHED | YES | July 31, 2026 | YES | YES | NO | NO | None | Up to ₱40,000 per sem allowance | Registered farmer | GWA passing | NCFRS registration proof, birth certificate, TOR | ched.gov.ph | 3/10 | Near-match; depends on parental registry in NCFRS. |
+| BPI Pagpupugay | BPI Foundation | NO | Closed | YES | YES | YES | YES | None | Up to ₱100,000 per year | Covid casualties | GWA \ge 85% | Hospital endorsement, COVID medical cert, TOR, ITR | bpifoundation.org | 2/10 | Requires specialized next of kin relation to deceased frontliner. |
+| BPI-DOST Innovation | BPI Foundation | NO | June 30, 2026 | YES | YES | YES | YES | None | ₱60k to ₱150k cash prizes | None | No failing grades | Forms, questionnaire, grades, 3-min video | bpifoundation.org | 7/10 | Group research competition for applied sciences. |
+| InLife Gold Eagle | Insular Life | NO | June 30, 2026 | NO | YES | NO | NO | Partner SUCs | Semestral stipend, book allowance | Gross income \le ₱250k | Grade 11-12 GWA \ge 85% | Report cards, ITR, good moral | insularfoundation.com.ph | 1/10 | Ineligible. Strictly freshman-entry at partner schools. |
+| PHINMA PNS | PHINMA | NO | July 15, 2026 | NO | NO | NO | NO | Partner schools | Monthly allowance, leadership seminars | Gross income \le ₱300k | College GWA \ge 80% | Registration form, TOR, bills, recommendation | phinmanationalscholarship.com | 1/10 | Ineligible. Limited to incoming sophomores at non-partner schools. |
+| GSIS GSSP | GSIS | NO | August 31, 2026 | NO | YES | NO | NO | None | ₱15,000 per year stipend | Parent SG \le 15 | Grade 12 GWA \ge 90% | Birth certificate, parent COE, admissions copy | gsis.gov.ph | 1/10 | Ineligible. Limited strictly to incoming first-year freshmen. |
+| Jollibee ACE | Jollibee | NO | Policy not explicitly stated | NO | NO | NO | NO | Partner schools | Subsidized training, vocational certificates | Marginally poor | Policy not explicitly stated | Grade sheet, enrollment copy, parent income | foundation.jollibeegroup.com | 1/10 | Ineligible. Focuses on tech-voc and agricultural tracks. |
+| CHED SIKAP | CHED | YES | Rolling | NO | NO | NO | NO | None | Covers grad school tuition and allowance | SUC Faculty | Regular status | SIKAP form, study leave, TOR, medical | legacy.ched.gov.ph/sikap | 1/10 | Ineligible. Restricted to SUC staff taking master/doctor studies. |
+| CHED Merit (CMSP) | CHED | NO | July 31, 2026 | NO | YES | NO | NO | None | ₱40,000 to ₱80,000 per year | Parents income \le ₱500k | Grade 12 GWA \ge 93% | Form SF9, birth certificate, parent income | ched.gov.ph | 1/10 | Ineligible. Restricted strictly to incoming college freshmen. |
+| CHED BPMSP | CHED | NO | Policy not explicitly stated | NO | YES | NO | NO | None | Free tuition, semestral stipend | Parents income \le ₱2M | Grade 12 GWA \ge 95% | Grade 12 card, income proof, birth cert | [bpms.ched.gov.ph](https://bpms.ched.gov.ph/) | 1/10 | Ineligible. Restricted to first-time college entrants. |
+| Aboitiz Tech-Voc | Aboitiz | YES | Rolling | NO | NO | NO | NO | Targeted | Subsidized training, vocational certificates | Indigent | Policy not explicitly stated | Dualtech application, moral, birth certificate | dualtech.org.ph | 1/10 | Ineligible. Restricted to 2-year electro-mechanical programs. |
+| Lao Foundation | Lao Found | YES | Rolling | NO | NO | NO | NO  | Targeted | Subsidized training, vocational certificates | Indigent | Policy not explicitly stated | Dualtech application, moral, birth certificate | [dualtech.org.ph](https://www.dualtech.org.ph) | 1/10  | Ineligible. Restricted to 2-year electro-mechanical programs. |
+| Security Bank Agency | SBFI | YES  | Policy not explicitly stated | YES  | YES | NO  | NO  | None | Up to ₱30,000 per year  | Outsourcing staff | GWA [span_1203](start_span)[span_1203](end_span)\g[span_1251](start_span)[span_1251](end_span)e 83% | Application form, reports, employee ID | [securitybank.com](https://www.securitybank.com)  | 1/10 | Ineligible. Restricted to outsourcing agency staff at bank. |
+| Security Bank Employee | SBFI | YES  | June 30, 2026 | YES | YES | NO | NO | None | Semestral tuition and stipend benefits | Permanent staff | GWA \ge 83% | Application, grades, employment proof | securitybank.com | 1/10  | Ineligible. Restricted to bank employee dependents. |
+| Security Bank External | SBFI  | NO | August 31, 2026 | YES | YES | NO | NO | Partner schools | ₱100,000 annual stipend for SUC | Underprivileged | GWA \ge 93% | TOR, parent ITR, school admission certificate | securitybank.com | 1/10 | Ineligible. BatStateU is not a partner school. |
+| Huawei Seeds Alumni | Huawei | YES | Rolling | YES | YES | YES | YES | None | ICT training, technical certifications | None | High standing | Application, personal statement, portfolio | huawei.com | 5/10 | Non-tuition educational program. Focuses on short-term technical courses. |
+| Huawei-DLSU Scholarship | Huawei | NO | Policy not explicitly stated | YES | YES | NO | NO | DLSU students | Tuition and stipend support | Financial need | Standard average | SUC scholarship form, grades, parents' ITR | [dlsu.edu.ph](https://www.dlsu.edu.ph) | 1/10 | Ineligible. Enrolled at non-partner SUC (restricted to DLSU). |
+| Huawei-Ateneo Science | Huawei | YES | Enrollment cycle | YES | NO | NO | NO | ADMU students | Tuition and monthly stipend support | Financial need | Standard average | SUC forms, grades transcript, ITR | ateneo.edu | 1/10 | Ineligible. Enrolled at non-partner SUC and restricted to specific programs. |
+| Accenture Analytics | Accenture | NO | Closed | YES | NO | NO | NO | UPC Spain | Covers credit tuition, administrative fees | None | High standing  | Transcripts, recommendations, study visa  | upc.edu | 1/10 | Ineligible. Restricted to study abroad at UPC Barcelona. |
+| Saudi Arabia Program | Saudi Gov | YES | Policy not explicitly stated | NO | YES | NO | NO | Saudi SUCs | Tuition waiver, stipend, housing support | None | Excellent | Passport, grades, birth cert, medical | studyinsaudi.moe.gov.sa | 1/10 | Ineligible. Study-abroad freshman-entry award requiring relocation. |
+| AMEXCID Mexico | Mexico | YES | Policy not explicitly stated | NO | YES | NO | NO | Mexican SUCs | Tuition, insurance, living stipend | None | GWA \ge 85% | Passport, admission, grades, medical cert | gob.mx/amexcid | 1/10 | Ineligible. Study-abroad mobility grant for Mexican universities. |
+| CHED MSRS | CHED | YES | Policy not explicitly stated | NO | NO | NO | NO | Partner HEIs | Tuition, living, book, transport allowance | Indigent | Medical admit | NMAT score, school admission, agreement | [legacy.ched.gov.ph/msrs](https://legacy.ched.gov.ph/msrs/) | 1/10 | Ineligible. Restricted strictly to Doctor of Medicine programs. |
+| CHED AHEAD | CHED | YES | Policy not explicitly stated | YES | NO | YES | YES | Partner SUCs | One-time clinical RLE grant of ₱25,000 | Low-income | Passing standing | Clinical training schedule, grades transcript | ched.gov.ph | 1/10 | Ineligible. Restricted strictly to Allied Health and Nursing majors. |
+| CHED SIDA-SGP | CHED | YES | Enrollment seasons | NO | YES | NO | NO | Special SIDA | Tuition, stipend, and books | Low-income | Passing standing | Special residency certifications, grades | ched.gov.ph | 1/10 | Ineligible. Restricted to specific regions and freshman-entry. |
+| Metrobank ACCESS | MBFI | NO | Partner timeline | NO | YES | NO | NO | Partner SUCs | Tuition and stipend support | Combined \le ₱500k | GWA \ge 85% | Grades, parent income, registration card | [mbfoundation.org.ph](https://www.mbfoundation.org.ph) | 1/10 | Ineligible. restricted to incoming freshmen at partner institutions. |
+| Metrobank ETP | MBFI | NO | Enrollment season | YES | NO | NO | NO | Center HEIs | Stipends and tuition support | Poorest regions | Average [span_1320](start_span)[span_1320](end_span)\ge 85% | Transcript, parent ITR, recommendations | [mbfoundation.org.ph](https://www.mbfoundation.org.ph) | 1/10 | Ineligible. Restricted strictly to Education majors. |
+| Metrobank GRACE  | MBFI | NO | Final year cycle | NO | YES | NO  | NO | Partner SUCs | Semestral cash subsidy  | Drop-out risk | GWA [span_1012](start_span)[span_1012](end_span)\ge[span_1128](start_span)[span_1128](end_span) 85%  | Enrollment copy, TOR, parent financial loss | [mbfoundation.org.ph](https://www.mbfoundation.org.ph) | 1/10 | Ineligible. Restricted to graduating seniors at risk of dropping out. |
+| Metrobank MSP | MBFI | NO | Academic cycle | NO  | YES | NO | NO | Partner SUCs  | Tuition and cash allowance support | Marginally poor | Regular standing | Grades transcripts, ITR, registration | [mbfoundation.org.ph](https://www.mbfoundation.org.ph) | 1/10  | Ineligible. Restricted strictly to freshman-entry applicants. |
+| Metrobank Boysen | MBFI | YES | Academic cycle | YES | NO | NO | NO | Architecture SUCs | Design project stipends, book allowance | Underprivileged | GWA \ge 85% | Portfolio, grades transcripts, parent ITR | mbfoundation.org.ph | 1/10 | Ineligible. Restricted strictly to Architecture majors. |
+| Ayala U-Go Grant | Ayala | NO | June 6, 2026 | YES | YES | NO | NO | Public SUCs | ₱40,000 annual living subsidy  | Low-income | GWA \ge 85% | Wet-signature registration and copy of grades | [ayalafoundation.org](https://ayalafoundation.org/programs/scholarships) | 1/10 | Restricted to female-identifying applicants and prohibits existing awards. |
+Ranked Prioritization Database
+This database presents only the active, eligible, or highly compatible scholarships that match the student's profile. It is ranked systematically by Match Score, benefits, and probability of acceptance.
+| Rank | Scholarship | Organization | Open | Deadline | Match Score (1-10) | Benefits | Probability of Acceptance | Compatibility Notes |
+| :---: | :--- | :--- | :--- | :--- | :---: | :--- | :---: | :--- |
+| 1 | DOST JLSS (RA 7687) | DOST-SEI | NO | May 15, 2026 | 10/10 | ₱8,000/mo allowance, ₱10k/yr books, thesis, insurance | High | Strong academic and socio-economic fit. Government regulations require relinquishing CHED-TES if awarded. Compatible with other LGU grants. |
+| 2 | DOST JLSS (Merit) | DOST-SEI | NO | May 15, 2026 | 10/10 | ₱8,000/mo allowance, ₱10k/yr books, thesis, insurance | Medium-High | Excellent fit for outstanding GWA (well above minimum threshold) without strict indigency barriers. Compatible with other LGU grants. |
+| 3 | GBF STEM College | GBF | NO | May 31, 2026 | 9/10 | Up to ₱120k/yr grant, JG Summit upskilling, internships | Medium-High | Strong alignment with Software Engineer goals. Compatible with other LGU grants and Provincial. |
+| 4 | Presidential Scholars (B BBM) | OP / LGU | YES | Rolling | 9/10 | ₱20,000 educational assistance | High | Direct local provincial rollout with low administrative barriers. Compatible. |
+| 5 | Batangas EBD Scholarship | City Hall | YES | August 2026 | 9/10 | ₱3,000 allowance/sem for SUC scholars | High | High volume of scholars at BatStateU. Sibling limit may apply. Compatible with other LGU grants and Provincial. |
+| 6 | CHED TDP | CHED | YES | District-specific | 9/10 | ₱15,000 per academic year | High | Facilitated through the local congressional district office. Might conflict with direct TES. |
+| 7 | CHED TES | UniFAST | YES | August 2026 | 9/10 | ₱20,000 to ₱40,000 per academic year | Medium-Low | Evaluated internally via university enrollment portal. Requires active Listahanan 2.0 / 4Ps profile for priority. |
+| 8 | Fuji Haya Electric | BatStateU | YES | Academic cycle | 8/10 | Semestral grant, technical seminars, OJT internships | Medium | Linked with the university's technology programs. Prohibits holding other private corporate foundation awards. |
+| 9 | Megaworld Foundation | Megaworld | NO | July 31, 2026 | 8/10 | Tuition waiver, semestral stipend, corporate OJT | Medium-Low | Highly lucrative, but strict "no other scholarship" clause creates structural conflict with other active grants. |
+| 10 | Generation Google (APAC) | Google | YES | August 14, 2026 | 8/10 | $2,500 USD (~₱140,000) pure cash stipend | Low | Requires female identity and successful completion of the Google Online Challenge. Compatible. |
+| 11 | DICT STEM | DICT | YES | Rolling | 7/10 | Technical certifications, professional upskilling | Medium | Highly aligned with Software Engineer goals. Compatible. |
+| 12 | Accenture Internship | Accenture | YES | Rolling | 7/10 | ABAP/SAP corporate upskilling, OJT stipend | Medium | High professional development value. Compatible. |
+| 13 | BPI-DOST Innovation | BPI Foundation | NO | June 30, 2026 | 7/10 | ₱60k to ₱150k team cash research prizes | Low | Requires a 3-member student team and dean-endorsed applied science project. Compatible. |
+| 14 | San Juan Batangas | Municipal | YES | July-August 2026 | 6/10 | Load assistance, general tuition/stipend allowances | High | Dependent on direct residency in San Juan municipality. Compatible. |
+| 15 | CSC Gawad PASUC | CSC | YES | Policy not explicitly stated | 5/10 | Standard educational subsidies | Low-Medium | Restricts eligibility to Gawad bayani awardees and their immediate kin. Compatible. |
+| 16 | DBP INSPIRE | DBP | YES | Policy not explicitly stated | 4/10 | Direct semestral cash allowances | Low | Evaluated through partner universities; requires active verification of SUC allocations. |
+Targeted Tactical Manuals for Priority Scholarships
+1. DOST-SEI Junior Level Science Scholarship (JLSS) — RA 7687 and Merit Tracks
+ * Qualitative Justification: The candidate's academic standing at Batangas State University is outstanding, with a GWA well above the minimum threshold. This far exceeds the minimum GWA eligibility threshold of 83%. The BSIT program is classified as a high-priority science and technology course, and BatStateU is a premier SUC, making the student a prime target for both the RA 7687 (socio-economic) and Merit tracks.
+ * Potential Execution Issues: The primary structural barrier is the strict government policy against holding multiple national merit scholarships. If awarded the JLSS, the student should confirm if they are required to forfeit the CHED-TDP or other national grants. Additionally, the qualifying examination includes sections on advanced physics, chemistry, and calculus, which are outside the standard BSIT curriculum and will require dedicated preparation.
+ * Pre-emptive Document Collection: To ensure readiness for the next application cycle, the student should immediately secure a Certified True Copy of Grades (TCG) for their first and second college years, Form C (Certificate of Moral Character) from the Student Affairs Office, Form D (Program and Year Level Certification), and their parents' latest BIR Form 2316/2025 Income Tax Returns or Barangay Indigency documents.
+ * Strategic Success Tips: To stand out, the student should focus on studying logical reasoning and quantitative math, which are heavily weighted on the JLSS exam. While the June 2026 exam cycle has closed, the student should monitor the DOST-SEI portal for the tentative September 2026 qualifier announcements.
+2. Gokongwei Brothers Foundation (GBF) STEM College Scholarship
+ * Qualitative Justification: GBF is specifically designed to support academically excellent STEM students who demonstrate financial need and a strong commitment to local industry growth. Given the student's career objective of becoming a Software Engineer, the program's focus on tech upskilling and direct access to JG Summit business units makes it an ideal fit.
+ * Potential Execution Issues: While existing scholarships like ELAP or LGU grants do not automatically disqualify applicants, GBF's guidelines note that "priority may be given to those without other active scholarships". Additionally, the student should sign a mandatory return service contract to work for a Gokongwei Group company after graduation.
+ * Pre-emptive Document Collection: The candidate should prepare a Certified True Copy of Grades for their sophomore semesters, their 2025-2026 registration form, a copy of a utility bill matching their declared home address, and a parent Certificate of Employment stating compensation.
+ * Strategic Success Tips: The student's personal portfolio is key to standing out. They should create a clean digital portfolio showcasing working web applications, database scripts, or Git repositories (e.g., GitHub/GitLab). During the panel interview, emphasizing interest in automation, cloud architectures, or data platforms within the Gokongwei Group will demonstrate strong professional alignment.
+3. Presidential Scholars Program (B BBM) — Batangas Rollout
+ * Qualitative Justification: Funded directly through the Socio-Civic Projects Fund under the Office of the President, this program allocates ₱20,000 in educational assistance to 5 scholars per barangay. This localized rollout is designed to support SUC students from low-income families in Batangas.
+ * Potential Execution Issues: Because the program is managed through local barangay leagues, application processing and selection are subject to localized timelines and may vary by barangay.
+ * Pre-emptive Document Collection: The candidate must secure a Barangay Certificate of Residency, a Barangay Certificate of Indigency, and a Certificate of Registration (COR) from the BatStateU Registrar confirming active enrollment in the BSIT program.
+ * Strategic Success Tips: The student should visit the local Barangay Hall to connect with local barangay officials. Since selections are highly localized, submitting requirements early of the local enrollment period is crucial for securing an allocated slot.
+4. Batangas City Government EBD Scholarship Program
+ * Qualitative Justification: This program is specifically designed to support local Batangas residents enrolled in SUCs like BatStateU. With a minimum GWA requirement of 2.5, the student's academic average (well above minimum threshold) makes them a highly competitive applicant.
+ * Potential Execution Issues: The scholarship is strictly restricted to Batangas City residents of at least five years. It also enforces a strict one-sibling limit, meaning the student will be ineligible if a brother or sister is already receiving the grant.
+ * Pre-emptive Document Collection: The candidate should prepare a Barangay Endorsement Letter signed by the Barangay Captain, a formal application letter addressed to Mayor Beverly Rose A. Dimacuha, a Certified True Copy of Grades from the registrar's office, and a copy of their school registration card.
+ * Strategic Success Tips: EBD applications are evaluated on a first-come, first-served basis. The candidate must submit their scanned documents early during the enrollment period to avoid delays. Using the required email subject format (Dela Cru[span_347](start_span)[span_347](end_span)z, Juan A._NewApplicant_College) is essential to ensure proper administrative tracking.
+5. CHED-UniFAST Tulong Dunong Program (TDP)
+ * Qualitative Justification: TDP is designed to provide direct financial assistance to students enrolled in recognized SUCs. It is highly compatible with the student's enrollment at BatStateU and can be utilized as a direct stipend.
+ * Potential Execution Issues: Congressional allocations are highly competitive and subject to strict regional quotas. Additionally, TDP cannot be combined with the full Tertiary Education Subsidy (TES) under UniFAST guidelines.
+ * Pre-emptive Document Collection: The candidate should secure a wet-signature Certificate of Registration (COR) from the BatStateU Registrar's Office, a Barangay Certificate of Indigency, and a clear copy of their student ID.
+ * Strategic Success Tips: Because TDP allocations are coordinated through legislative district offices, the student should establish contact with their local congressional representative's staff. Securing the necessary district application code and submitting physical documents during the designated enrollment window will significantly improve their chances of selection.
+6. Tertiary Education Subsidy (TES) — SUC Track
+ * Qualitative Justification: Under the Free Higher Education law, TES provides an annual cash subsidy of up to ₱40,000 directly to students in public SUCs to cover cost-of-living and learning materials.
+ * Potential Execution Issues: Due to national budget limits, UniFAST prioritizes SUC students listed in DSWD's Listahanan 2.0 or those belonging to 4Ps households. Non-Listahanan students are ranked based on the university's internal assessment of financial vulnerability.
+ * Pre-emptive Document Collection: The candidate must secure an updated copy of their registration form and a Certified True Copy of Grades (TCG) from the BatStateU Registrar's Office.
+ * Strategic Success Tips: Since BatStateU submits its student registry directly to the UniFAST portal, the student should coordinate with the university's Scholarship and Financial Assistance Office during the enrollment period. Ensuring that the university registrar has encoded the student's correct GWA and enrollment data is crucial for securing a high rank during the regional evaluation.
+7. Fuji Haya Electric Corporation Scholarship Program
+ * Qualitative Justification: This is a direct corporate partner scholarship formalized via a Memorandum of Understanding (MOU) with BatStateU. It targets technology and engineering undergraduates, offering semestral financial allowances alongside mandatory internships.
+ * Potential Execution Issues: It prohibits the holding of any other private corporate scholarship.
+ * Pre-emptive Document Collection: The candidate should prepare an internal BatStateU scholarship application form, a True Copy of Grades (TCG) for their sophomore year, and a recommendation letter from the Dean of the College of Informatics and Computing.
+ * Strategic Success Tips: To apply, the student should visit the Scholarship and Financial Assistance Office at the Alangilan Campus. During the interview with corporate representatives, the student should highlight their interest in industrial automation, IoT, or power system software. Showing how software engineering can optimize corporate hardware and electrical systems will demonstrate strong industry alignment.
+8. Generation Google Scholarship (APAC) — Women in Computer Science
+ * Qualitative Justification: This program offers a $2,500 USD (~₱140,000) pure cash grant for CS, IT, or software engineering students. Given the student's GWA (well above minimum threshold), the student would meet the requirement for academic excellence.
+ * Potential Execution Issues: The scholarship is open strictly to students who identify as female. It is also exceptionally competitive, requiring strong essay writing, technical problem-solving, and professional references.
+ * Pre-emptive Document Collection: The candidate should prepare a technical resume (PDF format) detailing coding skills and projects, an unofficial transcript of college grades, and contact details for two academic references.
+ * Strategic Success Tips: Google evaluates candidates heavily on their essays. The candidate must write a compelling, 500-word response detailing a specific technical challenge they solved, or outlining how they plan to advocate for women in the local tech community. The resume should highlight any software developer clubs or coding organizations at BatStateU that the student has participated in.
+9. DICT STEM/ICT Scholarship Program
+ * Qualitative Justification: Formulated specifically to resolve the talent shortage and mismatch in the local ICT sector, this government program supports STEM/IT students with stipends and training vouchers. The candidate's BSIT major directly aligns with DICT's strategic talent goals.
+ * Potential Execution Issues: Program timelines and direct stipend disbursements are subject to national coordination, which can result in delayed processing.
+ * Pre-emptive Document Collection: The candidate should secure a certified copy of their registration form, their student ID card, and a copy of their freshman and sophomore grades transcript.
+ * Strategic Success Tips: The student should highlight any industry-standard tech certifications (such as AWS, Cisco, or Google IT certificates) completed or are pursuing. During the screening, emphasizing the goal of becoming a locally based Software Engineer will align with DICT's mandate to build the country's digital workforce.
+10. Accenture Internship and Sponsorship Program
+ * Qualitative Justification: Accenture's campus program is designed to bridge the gap between academic learning and industry practice by offering upskilling, mentorship, and career placement to IT students. Given the student's career goals, this corporate sponsorship is a direct route into the tech industry.
+ * Potential Execution Issues: This is a career-development program rather than a traditional academic scholarship, meaning its benefits focus on professional upskilling and internships rather than ongoing monthly stipends.
+ * Pre-emptive Document Collection: The candidate should prepare an updated technical resume, a Letter of Intent, and a Certified True Copy of Grades from BatStateU.
+ * Strategic Success Tips: When applying, the student should highlight proficiency in programming languages (e.g., Python, Java, or SQL) and interest in enterprise-level software upskilling (such as SAP/ABAP or Cloud Computing). This technical alignment will make them a strong candidate for Accenture's internship pipeline.
+11. BPI-DOST Innovation Awards
+ * Qualitative Justification: This joint project by BPI Foundation and DOST-STII is a prestigious competition for junior- and senior-level undergraduate students of basic and applied sciences. It challenges students to solve real-world problems using science and technology.
+ * Potential Execution Issues: It is a group competition rather than an individual merit scholarship, requiring a team of three students to develop a lab-validated, functional prototype (TRL 4).
+ * Pre-emptive Document Collection: The team should prepare a fully accomplished contestant form, a certified copy of grades, a non-disciplinary certification from the Dean, and a 3-minute video pitch demonstrating their project.
+ * Strategic Success Tips: The project's innovation and relevance to local issues are critical for success. The candidate should team up with classmates to design a software-based solution (such as an IoT system, a mobile healthcare app, or an agricultural data platform) that can be easily demonstrated in a video pitch.
+12. San Juan, Batangas Iskolar ng Bayan Program
+ * Scholarship Name: San Juan, Batangas Iskolar ng Bayan Program
+ * Qualitative Justification: If the student is a registered resident of San Juan, Batangas, the student is eligible to apply for this municipal scholarship program. It provides semestral financial support and load assistance.
+ * Potential Execution Issues: The program is strictly restricted to residents of San Juan, Batangas, and is dependent on municipal budget allocations.
+ * Pre-emptive Document Collection: The candidate should prepare a copy of their school registration card, their latest grades transcript, and a Community Tax Certificate (Cedula).
+ * Strategic Success Tips: Submitting completed documents early at the municipal office is crucial, as SUC quotas are highly dependent on annual local budget approvals.
+13. CHED Scholarship Program for Coconut Farmers and Their Families (CoScho)
+ * Qualitative Justification: CoScho is open to SUC students who are registered coconut farmers or their direct dependents. It offers a substantial semestral allowance of up to ₱40,000.
+ * Potential Execution Issues: Ineligibility will apply if the student's parent is not listed in the National Coconut Farmers Registry System (NCFRS).
+ * Pre-emptive Document Collection: The candidate should secure a copy of their parent's NCFRS registration certificate, a birth certificate showing relationship, and a copy of their latest college grades.
+ * Strategic Success Tips: If eligible, the student should apply through the regional CHED portal during the designated enrollment season.
+14. DBP INSPIRE Scholarship Program
+ * Qualitative Justification: This program provides semestral allowances to underprivileged students in SUCs. The candidate's GWA and enrollment status make them a strong applicant if BatStateU is allocated slots for the current cycle.
+ * Potential Execution Issues: Program details and available slots are managed internally via university partners, making it essential to coordinate with the university's scholarship department.
+ * Pre-emptive Document Collection: The candidate should prepare their true copy of grades, a parent ITR, and an enrollment verification certificate.
+ * Strategic Success Tips: Visiting the BatStateU Scholarship Office to inquire about active DBP INSPIRE slots is the best way to secure an application slot.
+15. CSC Gawad PASUC Scholarship Program
+ * Qualitative Justification: This program provides educational subsidies to Gawad Lingkod Bayani national awardees and Pamanang Lingkod Bayani beneficiaries.
+ * Potential Execution Issues: Eligibility is strictly limited to awardees and their immediate family members.
+ * Pre-emptive Document Collection: The candidate must secure the official CSC nomination or award certification, alongside standard enrollment documents.
+ * Strategic Success Tips: If a parent is an eligible awardee, the student should coordinate with the CSC Central Office to secure the necessary endorsement.
+16. CHED Scholarship Program for Future Statisticians (Estatistikolar)
+ * Qualitative Justification: This program is open to second- to fourth-year college students and offers a semestral stipend of ₱35,000.
+ * Potential Execution Issues: It is strictly limited to Statistics and Applied Statistics majors, making BSIT students ineligible unless their program is recognized as statistics-heavy by the PSA.
+ * Pre-emptive Document Collection: The candidate should prepare a birth certificate, a grades transcript, and parent ITR documents.
+ * Strategic Success Tips: While a near-match, the student should focus on programs that directly target the BSIT track, such as the DOST JLSS or GBF STEM scholarships.
+17. BPI Foundation Pagpupugay Scholarship
+ * Qualitative Justification: This program offers up to ₱100,000 per year to support the education of medical frontliners' next of kin.
+ * Potential Execution Issues: Eligibility is strictly limited to next of kin of medical frontliners who contracted COVID-19 or passed away in the line of duty.
+ * Pre-emptive Document Collection: The candidate must secure a hospital endorsement letter, a death or medical certificate, a parent ITR, and a copy of their grades transcript.
+ * Strategic Success Tips: Due to the highly specific criteria, the student should prioritize local and regional merit scholarships unless they meet this requirement.
+18. Huawei Seeds for the Future Program
+ * Qualitative Justification: This program provides high-quality short-term technical training and certification vouchers, making it an excellent upskilling opportunity for IT majors.
+ * Potential Execution Issues: It focuses on technical training and global competitions rather than providing ongoing semestral cash stipends.
+ * Pre-emptive Document Collection: The candidate should prepare a resume, a personal statement, and a digital coding portfolio.
+ * Strategic Success Tips: Showcasing a strong interest in emerging technologies (such as Cloud Computing or AI) and a high GPA will help the applicant stand out.
+19. CHED Merit Scholarship Program (CMSP)
+ * Qualitative Justification: CMSP is CHED's flagship merit program, offering up to ₱80,000 per year.
+ * Potential Execution Issues: It is strictly restricted to incoming college freshmen, making third-year students ineligible.
+ * Pre-emptive Document Collection: N/A.
+ * Strategic Success Tips: The candidate should instead focus on the DOST JLSS, which is specifically designed for incoming third-year science and technology students.
+20. CHED Bagong Pilipinas Merit Scholarship Program (BPMSP)
+ * Qualitative Justification: BPMSP supports SUC students enrolled in priority fields like digital technology.
+ * Potential Execution Issues: It is strictly limited to incoming first-year college students with no prior tertiary units.
+ * Pre-emptive Document Collection: N/A.
+ * Strategic Success Tips: The candidate should focus on local LGU and private foundation grants that accept continuing college students.
+Strategic Action Plan and Portfolio Implementation
+To maximize their funding and secure a path to becoming a Software Engineer, the student should adopt a multi-tiered approach:
+ * Prioritize the DOST-SEI JLSS (RA 7687 or Merit Track): This is the highest-value academic grant for STEM students in the Philippines. While the application window for the current cycle is closed, the student should monitor the e-portal for qualifier announcements.
+ * Apply for the GBF STEM College Scholarship: This private scholarship is highly aligned with the student's career goals, offering substantial allowances, upskilling, and direct internship opportunities within the Gokongwei Group.
+ * Secure Local LGU Grants: The candidate should coordinate with their local Barangay Council and City Hall to apply for the Presidential Scholars Program or the Batangas City EBD Scholarship. These local awards are highly accessible and can be combined with existing support.
+By carefully managing their scholarship portfolio and maintaining their excellent academic standing, the student can completely eliminate their financial worries and focus on finishing their BSIT degree with Latin honors.

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.venv
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+# Private — contains unredacted personal data
+Comprehensive Strategic Analysis an.txt
+test_write.xlsx
+# Agent configuration (not part of project)
+.agents/
+skills-lock.json
