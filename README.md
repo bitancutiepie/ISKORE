@@ -7,6 +7,7 @@
 *A data-driven scholarship portfolio manager for Filipino SUC students*
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![PyQt6](https://img.shields.io/badge/PyQt6-6.11-green?style=flat-square)](https://www.riverbankcomputing.com/software/pyqt/)
 [![openpyxl](https://img.shields.io/badge/openpyxl-3.1-green?style=flat-square)](https://openpyxl.readthedocs.io)
 [![Pillow](https://img.shields.io/badge/Pillow-12-purple?style=flat-square)](https://python-pillow.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](http://makeapullrequest.com)
@@ -28,12 +29,11 @@ The Philippine tertiary funding landscape is a maze of programs — DOST, CHED, 
 2. **Scores** each against a configurable student profile (course, year level, residency, existing awards)
 3. **Generates** a 7-sheet Excel workbook with auto-filters, color-coding, and cross-sheet references
 
-> [!TIP]
-> The eligibility engine is parametrized — change the `PROFILE` dict at the top of `build_tracker.py` to adapt it to your own situation.
-
 ## Features
 
 **Eligibility Engine** — Automatically evaluates each scholarship against year level, course fit, residency restrictions, gender-specific grants, and award compatibility clauses.
+
+**Desktop GUI** — PyQt6 application with a profile form, dropdowns, checkboxes, and one-click workbook generation.
 
 **7-Sheet Workbook** — From a dashboard with portfolio stats and upcoming deadlines to a tactical manuals sheet with per-scholarship strategic guides.
 
@@ -43,29 +43,35 @@ The Philippine tertiary funding landscape is a maze of programs — DOST, CHED, 
 
 ## Quick Start
 
+### GUI (recommended for classmates)
+
 ```bash
-# Clone and install
-git clone https://github.com/yourusername/iskolar-tracker.git
-cd iskolar-tracker
 pip install -r requirements.txt
-
-# Generate the tracker (edit PROFILE first for your data)
-python build_tracker.py
-
-# (Optional) Regenerate screenshots
-python capture_screenshots.py
+python gui_app.py
 ```
 
-The output `iskolar-tracker.xlsx` will appear in the project root, ready to use.
+Fill in your profile, select your held awards, pick a save location, and click **Generate Workbook**.
+
+### CLI (advanced users)
+
+```bash
+pip install -r requirements.txt
+python build_tracker.py
+```
+
+The output `iskolar-tracker.xlsx` will appear in the project root. Edit the profile variables inside `build_tracker.py` or modify `scholarship_engine.py` to add more scholarships.
 
 ## Project Structure
 
 ```
 iskolar-tracker/
-├── build_tracker.py                   # Workbook generator with eligibility engine
+├── gui_app.py                         # PyQt6 desktop GUI (recommended)
+├── build_tracker.py                   # CLI workbook generator
+├── scholarship_engine.py              # Scholarship data + eligibility logic + Profile model
 ├── capture_screenshots.py             # Renders table screenshots via Pillow
-├── requirements.txt                   # openpyxl + pillow
+├── requirements.txt                   # openpyxl, pillow, PyQt6, pydantic
 ├── iskolar-tracker.xlsx               # Sample output (demo profile)
+├── header.png                         # Project logo
 ├── data/
 │   └── scholarship-analysis-source.txt # Source analysis document (redacted)
 ├── screenshots/
@@ -78,18 +84,26 @@ iskolar-tracker/
 
 ## Customization
 
-Edit the `PROFILE` block at the top of `build_tracker.py`:
+### Via GUI
+
+Just fill in the form — no code editing needed. The app validates your inputs and generates the workbook in one click.
+
+### Via Code
+
+Edit the profile variables at the bottom of `build_tracker.py`, or use the `Profile` model from `scholarship_engine.py`:
 
 ```python
-PROFILE = {
-    "name": "Your Name",
-    "course": "BSIT",
-    "year": "Incoming 3rd Year",
-    "school": "Batangas State University",
-    "municipality": "Your Municipality, Province",
-    "is_female": False,
-    "held_awards": ["LGU Educational Grant", "Provincial Merit Scholarship"],
-}
+from scholarship_engine import Profile
+
+profile = Profile(
+    name="Your Name",
+    course="BSIT",
+    year="Incoming 3rd Year",
+    school="Batangas State University",
+    municipality="Your Municipality, Province",
+    is_female=False,
+    held_awards=["LGU Educational Grant", "Provincial Merit Scholarship"],
+)
 ```
 
 The engine uses these fields to determine eligibility for all 47 scholarships. Add or remove held awards; the conflict-checker will adjust automatically.

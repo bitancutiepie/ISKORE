@@ -1,2 +1,4 @@
 openpyxl>=3.1
 pillow>=10.0
+PyQt6>=6.5
+pydantic>=2.0
